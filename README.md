@@ -9,4 +9,4 @@ As the GIF below shows I have demonstrated physical wheels carrying a basic chas
 
 I have also made a basic car controller which uses the wheels to steer and provide torque.
 
-https://github.com/kenevil1/Unity-Vehicle-Physics/blob/master/Unity%20Car%202.gif?raw=true
+![img](https://github.com/kenevil1/Unity-Vehicle-Physics/blob/master/Unity%20Car%202.gif?raw=true)
